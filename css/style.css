@@ -58,6 +58,12 @@ ul.swatch li:first-child { webkit-border-top-left-radius: 9px; -webkit-border-bo
 .cv h2 { font-size: 26.5px; margin-top: 35px; }
 .cv h1 { font-size: 32.5px; }
 
+/* Projects */
+.projects {line-height: 23px; width: 90%; margin: 0 auto;}
+.projects li { line-height: 23px; }
+.projects h2 { font-size: 26.5px; margin-top: 35px; }
+.projects h1 { font-size: 32.5px; }
+
 .notes, .contact, .about, .cv, .error, .swatches { margin-bottom: 30px; }
 
 /* Contact */
