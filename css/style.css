@@ -79,7 +79,7 @@ iframe {font-family: 'Merriweather', Georgia, Times; font-size: 16px;}
 pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 
 /* Paper-Title */
-.paper-title { font-weight:bold }
+.paper-title { font-weight:bold; padding-top: 15px }
 
 
 .step { border-radius: 50%; 
